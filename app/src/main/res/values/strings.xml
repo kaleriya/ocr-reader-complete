@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">необхдим доступ к камере</string>
+    <string name="no_camera_permission">Это приложение не может быть запущено, потому что у него нет разрешения камеры. Приложение будет закрыто.</string>
+    <string name="low_storage_error">нехватает памяти на устройстве</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Определить текст</string>
+    <string name="auto_focus">авто фокус</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Текст успешно прочитан</string>
+    <string name="ocr_failure">Нет захваченного текста</string>
+    <string name="ocr_error">"Ошибка чтения текста: %1$s"</string>
+</resources>
